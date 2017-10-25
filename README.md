@@ -1,1 +1,1 @@
-# Operator-Sobel-
+# Operator Sobel
